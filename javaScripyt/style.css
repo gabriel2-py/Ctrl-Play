@@ -1,0 +1,46 @@
+h1, h2, h3 {
+    font-family: "Comic Sans MS";
+}
+
+.italicoLinha {
+    font-style: italic;
+    border-bottom: solid;
+}
+
+body {
+    background-image: url("images.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: verdana;
+}
+
+p {
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+h1 {
+    color: rgb(130, 228, 255);
+    text-align: center;
+}
+    img[src = "img/imagens.jpg"]{
+        border-radius: 50%;
+    }
+.coluna-principal {
+    float: left;
+    width: 75%;
+    text-align: center;
+}
+
+
+.coluna-lateral {
+    float: right;
+    width: 25%;
+}
+
+nav{
+    text-align: center;
+}
